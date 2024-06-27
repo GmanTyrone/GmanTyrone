@@ -48,17 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GmanTyrone/GmanTyrone/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21c32zxjj5z4tf6jkry4fbw4y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21c32zxjj5z4tf6jkry4fbw4y&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
