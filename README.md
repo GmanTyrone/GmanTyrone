@@ -1,4 +1,6 @@
-<h2 align="left">Hello! My name is Luis Enrique Franco<br>I'm a Chemical Engineer and Computer Scientist with a passion for Bioinformatics. I specialize in running Next-Generation Sequencing (NGS) pipelines and conducting microbiome research. My goal is to apply Data Science techniques to Life Sciences, transforming biological data into actionable insights. Explore my repositories to see my projects, and feel free to connect for collaboration opportunities!</h2>
+<div style="background-color: #282c34; padding: 20px; text-align: center; color: white;">
+  <h2 align="left">Hello! My name is Luis Enrique Franco<br>I'm a Chemical Engineer and Computer Scientist with a passion for Bioinformatics. I specialize in running Next-Generation Sequencing (NGS) pipelines and conducting microbiome research. My goal is to apply Data Science techniques to Life Sciences, transforming biological data into actionable insights. Explore my repositories to see my projects, and feel free to connect for collaboration opportunities!</h2>
+</div>
 
 ###
 
